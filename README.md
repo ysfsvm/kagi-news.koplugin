@@ -16,11 +16,11 @@ A [KOReader](https://github.com/koreader/koreader) plugin that brings curated ne
 
 ## Screenshots
 
-![Screenshot 1](img/screenshot1.png)
-![Screenshot 2](img/screenshot2.png)
-![Screenshot 3](img/screenshot3.png)
-![Screenshot 4](img/screenshot4.png)
-![Screenshot 5](img/screenshot5.png)
+![Screenshot 1](img/screenshot-1.png)
+![Screenshot 2](img/screenshot-2.png)
+![Screenshot 3](img/screenshot-3.png)
+![Screenshot 4](img/screenshot-4.png)
+![Screenshot 5](img/screenshot-5.png)
 
 ## Installation
 
